@@ -1,4 +1,4 @@
-# my_project
+# task04
 
 High level project overview - business value it brings, non-detailed technical overview.
 
@@ -7,9 +7,9 @@ All the technical details described below are actual for the particular
 version, or a range of versions of the software.
 ### Actual for versions: 1.0.0
 
-## my_project diagram
+## task04 diagram
 
-![my_project](pics/my_project_diagram.png)
+![task04](pics/task04_diagram.png)
 
 ## Lambdas descriptions
 
